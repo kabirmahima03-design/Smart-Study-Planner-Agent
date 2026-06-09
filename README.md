@@ -1,2 +1,26 @@
-# Smart-Study-Planner-Agent
-Smart Study Planner Agent is a simple AI-based study assistant that helps students organize tasks based on deadlines and difficulty levels. It recommends when to start studying and generates a structured study plan before deadlines.
+# Smart Study Planner Agent
+
+## Project Description
+This AI agent helps students organize their study schedule.
+
+## Agent Logic
+Observe -> Think -> Act
+
+### Observe
+Reads tasks, deadlines, study hours, and difficulty levels.
+
+### Think
+Calculates when students should start studying before the deadline.
+
+### Act
+Generates study recommendations and priorities.
+
+## Example
+Computer Project
+Deadline: Friday
+Difficulty: Hard
+
+Recommended Study Day: Tuesday
+
+## Author
+Mahima Kabir
